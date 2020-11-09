@@ -1,4 +1,14 @@
+@font-face {
+  font-family: 'MyFont';
+  src: url('./BigShouldersStencilText-Medium.ttf') format('ttf'),
+    url('./BigShouldersStencilText-Bold.ttf') format('ttf');
+  font-weight: 600;
+  font-style: normal;
+}
+
 .hello {
   color: red;
-  background: url('./logo.jpeg')
+  background: url('./logo.jpeg');
+  font-family: 'MyFont';
+  font-size: 5rem;
 }
