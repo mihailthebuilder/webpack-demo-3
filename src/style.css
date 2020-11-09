@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'MyFont';
-  src: url('./BigShouldersStencilText-Medium.ttf') format('ttf'),
-    url('./BigShouldersStencilText-Bold.ttf') format('ttf');
+  src:  url('BigShouldersStencilText-Bold.ttf') format('ttf'),
+        url('BigShouldersStencilText-Medium.ttf') format('ttf');
   font-weight: 600;
   font-style: normal;
 }
