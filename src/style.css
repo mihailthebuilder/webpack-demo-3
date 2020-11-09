@@ -9,6 +9,6 @@
 .hello {
   color: red;
   background: url('./logo.jpeg');
-  font-family: 'MyFont';
+  font-family: 'MyFont', Arial;
   font-size: 5rem;
 }
