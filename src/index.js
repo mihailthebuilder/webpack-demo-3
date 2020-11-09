@@ -6,4 +6,4 @@ const component = () => {
   return element;
 }
 
-document.appendChild(component());
+document.body.appendChild(component());
